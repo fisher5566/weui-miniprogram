@@ -17,8 +17,9 @@
     "uploader": "./uploader/uploader",
     "gallery": "./gallery/gallery",
     "grids": "./grids/grids",
+   "badge": "./badge/badge",
     "checkbox": "./checkbox/checkbox",
-    "badge": "./badge/badge",
+ 
     "searchbar": "./searchbar/searchbar",
     "checkbox-group": "./checkbox-group/checkbox-group"
   }
